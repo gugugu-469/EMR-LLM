@@ -1,0 +1,5 @@
+{"instruction": "输入术语属于医学范畴，请给出其常见的同义词：", "input": "由特定的X射线细节确定的身体", "output": "Body identified by specific x-ray details"}
+{"instruction": "请提供该医学术语在医学领域中的常用同义词：", "input": "概念失认症", "output": "Ideational agnosia，观念认识不能"}
+{"instruction": "输入术语属于医学范畴，请给出其常见的同义词：", "input": "遗传多态性", "output": "遗传性多态现象"}
+{"instruction": "请提供该医学术语在医学领域中的常用同义词：", "input": "单侧痛觉消失", "output": "偏身痛觉缺失"}
+{"instruction": "以下是一个医学术语，请输出其同义词，注意同义词可能有多个：", "input": "好及施(冷感)(国药准字J20060002)", "output": "复方山金车花贴片，好及施(冷感)，复方山金车花"}
