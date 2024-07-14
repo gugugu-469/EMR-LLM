@@ -1,3 +1,4 @@
+[**English**](./README.md) | [**中文**](./README_zh.md)
 # EMR-GPT
 A Large Language Model for Electronic Medical Records
 

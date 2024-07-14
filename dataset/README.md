@@ -1,2 +1,3 @@
+[**English**](./README.md) | [**中文**](./README_zh.md)
 # Dataset
-We publish the samle datas of InstructionEMR and InstructionTerm.
+We publish the sample datas of InstructionEMR and InstructionTerm.

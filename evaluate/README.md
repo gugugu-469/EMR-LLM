@@ -1,3 +1,4 @@
+[**English**](./README.md) | [**中文**](./README_zh.md)
 # Evaluate Pretrain Performance
 ## Evaluate with prompt added
 Dataset:C-Eval,CMMLU,MMLU,CMB_Exam,MedQA-MCMLE,Med-C-Eval,Med-CMMLU,Med-MMLU

@@ -1,3 +1,4 @@
+[**English**](./README.md) | [**中文**](./README_zh.md)
 # 评估预训练效果
 ## 添加提示并评估
 数据集：C-Eval,CMMLU,MMLU,CMB_Exam,MedQA-MCMLE,Med-C-Eval,Med-CMMLU,Med-MMLU
