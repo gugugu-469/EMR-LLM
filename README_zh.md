@@ -1,9 +1,9 @@
 [**English**](./README.md) | [**中文**](./README_zh.md)
-# EMR-GPT
+# EMR-LLM
 A Large Language Model for Electronic Medical Records
 
 # Method
-EMR-GPT的整体架构如下:
+EMR-LLM的整体架构如下:
 <div align="center">
   <img src="assets/framework.jpg" alt="Framework" width="100%">
 </div>

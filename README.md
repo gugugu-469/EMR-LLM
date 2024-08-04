@@ -1,9 +1,9 @@
 [**English**](./README.md) | [**中文**](./README_zh.md)
-# EMR-GPT
+# EMR-LLM
 A Large Language Model for Electronic Medical Records
 
 # Method
-The framework of EMR-GPT is shown in the following figure:
+The framework of EMR-LLM is shown in the following figure:
 <div align="center">
   <img src="assets/framework.jpg" alt="Framework" width="100%">
 </div>

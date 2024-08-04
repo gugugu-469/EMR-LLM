@@ -49,7 +49,7 @@ model_dtype="fp16"
 template="pmc_llama"
 split_max_len=2048
 
-# emr-gpt
+# emr-llm
 model="path_of_emr_gpt"
 model_dtype="fp16"
 template="chatglm3"
