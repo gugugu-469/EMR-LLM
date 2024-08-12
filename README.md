@@ -21,27 +21,27 @@ The framework of EMR-LLM is shown in the following figure:
 
 To run our code, please install dependency packages.
 ```
-accelerate	  0.27.2
+accelerate	    0.27.2
 deepspeed	    0.14.2
 fire	        0.5.0
-flash-attn	  2.5.8
+flash-attn	    2.5.8
 ninja	        1.11.1.1
 sentencepiece	0.1.99
 torch	        2.2.1
 vllm	        0.4.1
 peft	        0.10.0
-trl	          0.8.1
+trl	            0.8.1
 datasets    	2.17.1	
 transformers	4.40.0	
 scipy	        1.12.0
 tiktoken    	0.6.0	
 protobuf	    3.20.3	
 pydantic    	2.6.1	
-matplotlib	  3.8.3	
+matplotlib	    3.8.3	
 sse-starlette	2.0.0	
 packaging	    23.2	
 pyyaml      	6.0.1
-pandas	      1.5.3
+pandas	        1.5.3
 numpy	        1.23.4
 ```
 
