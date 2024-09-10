@@ -1,0 +1,8 @@
+medical_encyclopedia:https://huggingface.co/datasets/shibing624/medical/tree/main/pretrain
+pubmed:https://huggingface.co/datasets/ccdv/pubmed-summarization
+TCM-Ancient-Books:https://github.com/xiaopangxia/TCM-Ancient-Books
+medical_book:https://huggingface.co/datasets/shibing624/medical/tree/main/pretrain
+MedDialog:https://tianchi.aliyun.com/dataset/92110 https://github.com/UCSD-AI4H/Medical-Dialogue-System
+Chinese-medical-dialogue-data:https://github.com/Toyhom/Chinese-medical-dialogue-data
+mimic:https://physionet.org/content/mimiciv/3.0/
+cpt:https://huggingface.co/datasets/williamliu/ChiMed/tree/main

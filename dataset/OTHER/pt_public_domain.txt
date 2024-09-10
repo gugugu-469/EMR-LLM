@@ -1,0 +1,13 @@
+wiki2019zh:https://github.com/brightmart/nlp_chinese_corpus
+Wikipedia:https://huggingface.co/datasets/wikimedia/wikipedia
+webtext2019zh:https://github.com/brightmart/nlp_chinese_corpus
+news2016zh:https://github.com/brightmart/nlp_chinese_corpus
+news_crawl:https://github.com/commoncrawl/news-crawl
+baike2018qa:https://github.com/brightmart/nlp_chinese_corpus
+BookCorpus:https://huggingface.co/datasets/bookcorpus/bookcorpus
+CSL:https://github.com/ydli-ai/CSL
+ParaCrawl_V9:https://paracrawl.eu
+trainslation2019:https://github.com/brightmart/nlp_chinese_corpus
+falcon-refinedweb:https://huggingface.co/datasets/tiiuae/falcon-refinedweb
+CLUECorpus2020:https://github.com/CLUEbenchmark/CLUECorpus2020
+WuDaoCorpora:https://data.baai.ac.cn/details/WuDaoCorporaText

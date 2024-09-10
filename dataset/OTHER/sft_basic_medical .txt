@@ -1,0 +1,9 @@
+CBLUE:https://github.com/CBLUEbenchmark/CBLUE
+PromptCBLUE:https://github.com/michael-wzhu/PromptCBLUE
+Chinese-medical-dialogue-data:https://github.com/Toyhom/Chinese-medical-dialogue-data
+HuatuoGPT-sft-data-v1:https://huggingface.co/datasets/FreedomIntelligence/HuatuoGPT-sft-data-v1
+HuatuoGPT2-SFT-GPT4-140K:https://huggingface.co/datasets/FreedomIntelligence/HuatuoGPT2-SFT-GPT4-140K
+MedDialog:https://tianchi.aliyun.com/dataset/92110 https://github.com/UCSD-AI4H/Medical-Dialogue-System
+MedicalGPT:https://github.com/shibing624/MedicalGPT
+InstructionTerm:https://github.com/gugugu-469/EMR-LLM
+InstructionEMR:https://github.com/gugugu-469/EMR-LLM
