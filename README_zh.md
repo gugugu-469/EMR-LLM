@@ -1,6 +1,6 @@
 [**English**](./README.md) | [**中文**](./README_zh.md)
 # EMR-LLM
-本仓库是**EMR-LLM**的官方实现，该模型来自论文**A Large Language Model for Electronic Medical Records**
+本仓库是**EMR-LLM**的官方实现，该模型来自论文**Improving Clinical Expertise in Large Language Models Using Electronic Medical Records**
 
 # 简要介绍
 

@@ -1,6 +1,6 @@
 [**English**](./README.md) | [**中文**](./README_zh.md)
 # EMR-LLM
-This repository is the official implementation of **EMR-LLM**, which is model proposed in a paper: **A Large Language Model for Electronic Medical Records**.
+This repository is the official implementation of **EMR-LLM**, which is model proposed in a paper: **Improving Clinical Expertise in Large Language Models Using Electronic Medical Records**.
 
 # Brief introduction
 we propose **EMR-LLM**, an LLM designed for electronic medical records, capable of fully comprehending the complex structure of EMRs and critical clinical numerical data.
