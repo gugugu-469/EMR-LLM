@@ -104,12 +104,4 @@ This project is based on [Chatglm3-6b](https://github.com/THUDM/ChatGLM3).
 Thanks to the publishers for all opens-ource datasets. 
 
 # About
-Should you have any questions, please feel free to contact xxx at xx@xx.
-
-
-# References
-If you use or extend our work, please cite the paper as follows:
-
-```bibtex
-xxxxx
-```
+Should you have any questions, please feel free to contact us at `y80220109@mail.ecust.edu.cn`

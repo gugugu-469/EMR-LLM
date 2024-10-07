@@ -105,3 +105,7 @@ bash /train/LLaMA-Factory/ours-script/export_lora_model.sh
 项目基于 [Chatglm3-6b](https://github.com/THUDM/ChatGLM3)。
 
 感谢所有提供开源数据的创作者。
+
+# 关于我们
+
+如果你有任何疑问，可以通过`y80220109@mail.ecust.edu.cn`联系我们
