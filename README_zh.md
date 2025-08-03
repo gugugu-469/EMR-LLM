@@ -2,7 +2,7 @@
 
 # EMR-LLM
 
-本仓库是**EMR-LLM**的官方实现，该模型来自论文**Improving Clinical Expertise in Large Language Models Using Electronic Medical Records**
+本仓库是**EMR-LLM**的官方实现，该模型来自论文**Large Language Model for Clinical Data Governance**
 
 # 简要介绍
 
@@ -19,7 +19,7 @@
 EMR-LLM的整体架构如下:
 
 <div align="center">
-  <img src="assets/framework.jpg" alt="Framework" width="100%">
+  <img src="assets/framework.png" alt="Framework" width="100%">
 </div>
 
 # 🔬 依赖
