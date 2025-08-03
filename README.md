@@ -95,6 +95,17 @@ bash 2_chatglm_train_stage4_lora.sh
 bash /train/LLaMA-Factory/ours-script/export_lora_model.sh
 ```
 
+## GRPO
+
+```sh
+# modify the config file
+vim /train/grpo/training/receipes/our_grpo_config.yaml
+# go to the directory
+cd /train/grpo/training
+# start training
+bash train_grpo_chatglm3_lora_cmeie.sh
+```
+
 # Acknowledgements
 
 Special thanks to [hiyouga](https://github.com/hiyouga/LLaMA-Factory) for providing the LLaMA fine-tuning framework.

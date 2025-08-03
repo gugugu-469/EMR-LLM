@@ -4,4 +4,4 @@
 
 `./OTHER`:开源数据集目录，包括通用数据与基础医疗数据。
 
-`./EMR_SFT`:我们构建的电子病历微调数据集目录，包括初始EMR数据、InstructionEMR数据和InstructionTerm数据。
+`./EMR_SFT_GRPO`:我们构建的电子病历微调和GRPO数据集目录，包括初始EMR数据、InstructionEMR数据和InstructionTerm数据。

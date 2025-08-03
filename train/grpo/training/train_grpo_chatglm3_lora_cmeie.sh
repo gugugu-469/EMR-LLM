@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3,1,0 accelerate launch --main_process_port 24500 --num_processes 2 --config_file configs/accelerate_configs/deepspeed_zero2.yaml scripts/run_emr_grpo.py --config receipes/our_grpo_config.yaml

@@ -1,5 +1,7 @@
 [**English**](./README.md) | [**中文**](./README_zh.md)
+
 # EMR-LLM
+
 本仓库是**EMR-LLM**的官方实现，该模型来自论文**Improving Clinical Expertise in Large Language Models Using Electronic Medical Records**
 
 # 简要介绍
@@ -15,6 +17,7 @@
 **最后**，我们提出了一种能力提升式的指令微调方法，利用该数据集对预先训练好的 LLM 进行微调。这种方法模仿人类的学习过程，让 LLMs 先学习简单的任务，然后逐步学习更复杂的任务。
 
 EMR-LLM的整体架构如下:
+
 <div align="center">
   <img src="assets/framework.jpg" alt="Framework" width="100%">
 </div>
@@ -22,6 +25,7 @@ EMR-LLM的整体架构如下:
 # 🔬 依赖
 
 要运行我们的代码，请安装相关软件包。
+
 ```
 accelerate	  0.27.2
 deepspeed	    0.14.2
@@ -33,15 +37,15 @@ torch	        2.2.1
 vllm	        0.4.1
 peft	        0.10.0
 trl	          0.8.1
-datasets    	2.17.1	
-transformers	4.40.0	
+datasets    	2.17.1
+transformers	4.40.0
 scipy	        1.12.0
-tiktoken    	0.6.0	
-protobuf	    3.20.3	
-pydantic    	2.6.1	
-matplotlib	  3.8.3	
-sse-starlette	2.0.0	
-packaging	    23.2	
+tiktoken    	0.6.0
+protobuf	    3.20.3
+pydantic    	2.6.1
+matplotlib	  3.8.3
+sse-starlette	2.0.0
+packaging	    23.2
 pyyaml      	6.0.1
 pandas	      1.5.3
 numpy	        1.23.4
@@ -52,6 +56,7 @@ numpy	        1.23.4
 如果您想与我们的构建过程保持一致，请进入 `/train/LLaMA-Factory/ours-script`目录，并按照目录中的说明进行操作。
 
 ## 预训练
+
 ```sh
 # 前往相关目录
 cd /train/LLaMA-Factory/ours-script/pretrain
@@ -64,6 +69,7 @@ bash 2_start_pretrain.sh
 ```
 
 ## 指令微调
+
 ```sh
 # 前往相关目录
 cd /train/LLaMA-Factory/ours-script/sft
@@ -89,6 +95,16 @@ bash 2_chatglm_train_stage4_lora.sh
 bash /train/LLaMA-Factory/ours-script/export_lora_model.sh
 ```
 
+## GRPO
+
+```sh
+# 修改配置文件
+vim /train/grpo/training/receipes/our_grpo_config.yaml
+# 前往相关目录
+cd /train/grpo/training
+# 开始训练
+bash train_grpo_chatglm3_lora_cmeie.sh
+```
 
 # 代码结构
 
@@ -108,4 +124,4 @@ bash /train/LLaMA-Factory/ours-script/export_lora_model.sh
 
 # 关于我们
 
-如果你有任何疑问，可以通过`y80220109@mail.ecust.edu.cn`联系我们
+如果你有任何疑问，可以通过 `y80220109@mail.ecust.edu.cn`联系我们
